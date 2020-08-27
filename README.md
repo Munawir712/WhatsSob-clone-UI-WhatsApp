@@ -1,4 +1,4 @@
-# whatssob
+# WhatsSob
 
 Clone UI from WhatsApp 
 
